@@ -40,4 +40,3 @@ Open http://localhost:8443/. The API listens on port 3001.
 ## Data and privacy
 
 The API stores data in `server/appointments.json`, which is ignored by Git. On first run, it creates demo records if no data file exists. This demo has no authentication; do not enter real patient information or expose the API publicly without adding appropriate access controls and secure storage.
-# appointment-management-system
